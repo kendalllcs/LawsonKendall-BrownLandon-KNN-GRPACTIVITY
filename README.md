@@ -1,5 +1,5 @@
 ***Team Members:**<br />
-Kendall Lawson (lawsonk22@students.ecu.edu) github:kendalllawsoncs github(email):kendalllawsoncs@gmail.com<br />
+Kendall Lawson (lawsonk22@students.ecu.edu) github:kendalllcs github(email):kendalllawsoncs@gmail.com<br />
 Landon Brown (brownlan22@students.ecu.edu) github:CarrotToe github(email):cobblestone34@gmail.com<br />
 <br />
 <br />
